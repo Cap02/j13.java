@@ -22,5 +22,6 @@ public class j13 {
         System.out.println("abc");
         System.out.println("hot-temp");
         System.out.println("hot-temp1");
+        System.out.println("未push");
     }
 }
